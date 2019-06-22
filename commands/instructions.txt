@@ -12,3 +12,13 @@
 12) get push -f (To force push changes)
 13) cd ~ (To get into the home)
 14) cp .. (To get into the parent folder)
+15) git clone (URL) [To get the already created repository]
+================================================================================================================================================
+1)when u create a new folder and add a file.
+2) git init
+3) git add -A
+4) git commit -m "message"
+5) git remote add origin <url> [url of new repository]
+6) git push origin
+7) git push -u origin master
+================================================================================================================================================
