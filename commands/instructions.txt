@@ -8,3 +8,5 @@
 8) git push ( To push the current file)
 9) cp [SOURCE_FILE] [DEST_FOLDER]
 10) git config credential.helper store; git pull (To add default user)
+11) git reset --hard HEAD~[last n commits] (for removing last commits)
+12) get push -f (To force push changes)
