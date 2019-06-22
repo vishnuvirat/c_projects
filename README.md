@@ -1,0 +1,14 @@
+1) ls (To see all our files and folders)
+2) cd foldername (To open the folder)
+3) cp ../  (to check our files in parent folder)
+4) cp ../ [file name]. (To get automatic filename, enter the first letter and press tab){This current file was saved in the folder (c_projects) or the folder what u open currently}
+5) git add -A ( Changed files will be added to git)
+6) git status (To check our current status)
+7) git commit -m "[type message]"
+8) git push ( To push the current file)
+9) cp [SOURCE_FILE] [DEST_FOLDER]
+10) git config credential.helper store; git pull (To add default user)
+11) git reset --hard HEAD~[last n commits] (for removing last commits)
+12) get push -f (To force push changes)
+13) cd ~ (To get into the home)
+14) cp .. (To get into the parent folder)
